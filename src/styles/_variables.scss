@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url('/fonts/source_sans_pro.woff2') format('woff2'),
+    url('/fonts/source_sans_pro.woff') format('woff');
+}
+
+:root {
+  --text-color: rgb(26, 26, 26);
+  --dark: #08070b;
+  --muted-color: #8f9ba8;
+  --primary-color: rgb(0, 85, 255);
+  --grey-color: rgb(224, 224, 224);
+  --danger-color: rgb(242, 48, 48);
+  --text-hover: rgb(117, 117, 117);
+  --white-color: #f2f2f2;
+  --body-font: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+}
