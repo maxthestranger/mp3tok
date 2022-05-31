@@ -12,6 +12,10 @@ export default function Search() {
       <button type="submit" className={styles.btn}>
         Search
       </button>
+
+      <a href="https://1wpcon.top/" target="_blank">
+        More info
+      </a>
     </form>
   );
 }
